@@ -122,3 +122,9 @@ body{
 .place .country{
     color: rgb(255, 208, 0);
 }
+
+@media(max-width: 500px){
+    .card{
+        margin: 0 auto ;
+    }
+}
