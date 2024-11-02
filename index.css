@@ -123,13 +123,9 @@ body{
 }
 
 @media(max-width:600px){
-    body{
-         background: linear-gradient(135deg, #90caf9 , #0d47a1 );
-    }
-    
+ 
     .card{
         margin: 0 auto ;
-        background: transparent;
     }
 
     .col img{
