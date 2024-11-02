@@ -141,5 +141,10 @@ body{
         font-size: 1.2rem;
         margin-top: -6px;
     }
+
+    .search button{
+    width: 2rem;
+    height: 2rem;
+}
 }
 
