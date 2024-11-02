@@ -123,8 +123,19 @@ body{
     color: rgb(255, 208, 0);
 }
 
-@media(max-width:700px){
+@media(max-width:600px){
     .card{
         margin: 0 auto ;
     }
+
+    .col img{
+        width: 2rem;
+        margin-right: 10px;
+    }
+
+    .humidity, .wind{
+        font-size: 1.2rem;
+        margin-top: -6px;
+    }
 }
+
