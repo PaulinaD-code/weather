@@ -46,8 +46,8 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 4rem;
+    height: 4rem;
     cursor: pointer;
 }
 
