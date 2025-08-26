@@ -1,5 +1,4 @@
-const apiKey = `3fcd347b1387870b170d9528afb16fa6`;
-const apiUrl = `https://api.openweathermap.org/data/2.5/weather?&&units=metric&q=`;
+
 
 const cityName = document.querySelector('.city');
 const temperature = document.querySelector('.temp');
@@ -68,6 +67,7 @@ window.addEventListener('keydown', ()=>{
         checkWeather(input.value)
     }
 })
+
 
 
 
